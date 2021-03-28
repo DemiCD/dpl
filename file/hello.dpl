@@ -1,0 +1,4 @@
+function main[] 
+deb
+  output["Salutation !"]:
+end
