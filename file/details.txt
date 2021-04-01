@@ -1,0 +1,3 @@
+--------------------DETAILS DE LA DERNIERE VERSION--------------------
+
+Ceci est un test de truc de version
